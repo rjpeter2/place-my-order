@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/rjpeter2/place-my-order.png?branch=master)](https://travis-ci.org/rjpeter2/place-my-order)
+
 # place-my-order
 
 Welcome to the place-my-order DoneJS application!
